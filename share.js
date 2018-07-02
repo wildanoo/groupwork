@@ -6,3 +6,4 @@ export default Class
     method() {
             
     }
+console.log('Saya Pandu');
